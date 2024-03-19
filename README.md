@@ -2,6 +2,12 @@
 
 🎯 Objective: Contribute to our business success by leveraging data analysis techniques, with a special focus on time series analysis, to deliver valuable insights and accurate sales forecasting.
 
+📊 KPIs Involved:
+- ✅ Sales
+- ✅ Quantity
+- ✅ Profit
+- ✅ Average days (Delivery)
+  
 🚀 Tasks Accomplished:
 Created a dynamic dashboard with KPIs, interactive visualizations, and filters.
 Utilized DAX queries to calculate Average Order Delivery (AOD).
